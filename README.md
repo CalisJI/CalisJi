@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Calis
 
-Automation • IIoT • IoT • Mechatronics • Computer Vision • AI
+Industrial Automation • IIoT • IoT • Mechatronics • Computer Vision • AI
 
 I build practical intelligent systems by connecting software, industrial devices, networks, and automation.
 
@@ -13,7 +13,7 @@ I build practical intelligent systems by connecting software, industrial devices
 
 🚀 About Me
 
-🏭 Automation / Mechatronics / IoT engineer focused on real-world system integration.
+🏭 PLC / Industrial Automation / Mechatronics / IoT engineer focused on real-world system integration.
 
 🌐 Working with IIoT, LoRaWAN, RS485, MQTT, Modbus, gateways, dashboards, and remote monitoring.
 
@@ -35,17 +35,19 @@ Learn continuously. Build practical things. Share what you learn.
 <tr>
 <td width="33%" valign="top">
 
-🏭 Industrial Automation
+🏭 PLC & Industrial Automation
 
-Siemens PLC
+Siemens PLC programming
 
-Servo & inverter integration
+PLC-based machine control
 
-Machine control
+Mitsubishi servo integration
 
-Industrial communication
+INVT inverter integration
 
-Electrical / control system integration
+Modbus RTU/TCP communication
+
+Industrial device integration
 
 Troubleshooting & commissioning
 
@@ -105,14 +107,24 @@ AI-assisted applications
 
 Python C# C++ JavaScript SQL REST API Backend Integration
 
-⚙️ Automation & Embedded
+⚙️ PLC, Automation & Embedded
+
+<p>
+  <img src="https://img.shields.io/badge/PLC-Programming-0A66C2?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Siemens-PLC-009999?style=for-the-badge&logo=siemens&logoColor=white" />
+  <img src="https://img.shields.io/badge/TIA%20Portal-Automation-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mitsubishi-Servo-E60012?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/INVT-Inverter-005BAC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modbus-RTU%20%2F%20TCP-2E8B57?style=for-the-badge" />
+</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
-Siemens PLC Mitsubishi Servo INVT Inverter ESP32 Arduino Raspberry Pi
-Industrial Control Machine Commissioning Electrical Integration
+PLC Programming Siemens PLC Machine Control Mitsubishi Servo INVT Inverter
+Modbus RTU/TCP Industrial Communication Machine Commissioning Electrical Integration
+ESP32 Arduino Raspberry Pi
 
 📡 IoT, Networking & Protocols
 
@@ -140,6 +152,38 @@ GitHub Cloudflare Tunnel Reverse Proxy Caddy
 
 OpenCV Machine Vision Machine Learning Edge AI Cognex Vision
 AI for IoT AI-assisted Automation
+
+🧠 PLC & Industrial Control
+
+Area
+
+Experience
+
+PLC
+
+Siemens PLC programming and machine-control logic
+
+Motion
+
+Mitsubishi servo integration
+
+Motor Control
+
+INVT inverter integration
+
+Protocols
+
+Modbus RTU/TCP, RS485, TCP/IP
+
+Integration
+
+PLC ↔ devices ↔ sensors ↔ databases ↔ IoT systems
+
+Field Work
+
+Commissioning, troubleshooting, operation, and system integration
+
+Typical workflow: PLC / Controller → Field Devices → Industrial Protocol → Gateway / Software → Database / Dashboard
 
 🔧 Platforms & Devices I Work With
 
@@ -177,7 +221,7 @@ Python PostgreSQL Docker AI Speech Writing Listening Speaking
 
 Building a complete language-learning experience that combines AI feedback, pronunciation, listening, speaking, writing, grammar, and adaptive learning.
 
-🏭 Industrial Automation & Machine Integration
+🏭 PLC, Industrial Automation & Machine Integration
 
 Integration of PLCs, servo systems, inverters, databases, industrial cameras, and communication protocols for production machines.
 
@@ -222,7 +266,7 @@ Improve
 
 🤝 Let's build something useful.
 
-Automation • IoT • AI • Computer Vision • Smart Systems
+PLC • Industrial Automation • IIoT • IoT • AI • Computer Vision • Smart Systems
 
 ⭐ From CalisJI
 
