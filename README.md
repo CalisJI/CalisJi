@@ -1,63 +1,229 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Calis</h1>
+<div align="center">
+
+👋 Hi, I'm Calis
+
+Automation • IIoT • IoT • Mechatronics • Computer Vision • AI
+
+I build practical intelligent systems by connecting software, industrial devices, networks, and automation.
 
 
- <br/>
 
-## 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ All about me is at **[My Website](https://calisji.github.io/)**
+</div>
 
-- 🌱 I’m currently learning `C#,Python,Node-Red,Machine Vision,Machine Learming...`
+🚀 About Me
 
-- 👯 I’m looking to collaborate for `IIoT Projects` `IoT Projects` `Computer Vision Projects`
+🏭 Automation / Mechatronics / IoT engineer focused on real-world system integration.
 
-- 🤔 I’m looking for help with `Competitive Programming`
+🌐 Working with IIoT, LoRaWAN, RS485, MQTT, Modbus, gateways, dashboards, and remote monitoring.
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+🤖 Building solutions that combine PLC control, embedded devices, computer vision, Edge AI, and backend services.
 
-## 🛠️ Technologies and Tools I use:
+🧠 Currently expanding deeper into AI for IoT, Machine Learning, Computer Vision, and intelligent automation.
+
+🛠️ I enjoy solving problems from hardware → protocol → network → backend → dashboard → deployment.
+
+🚀 Creator of Orena, an AI-powered language-learning platform.
+
+🤝 Open to collaborating on Automation, IIoT, IoT, Computer Vision, Edge AI, and smart-system projects.
+
+Learn continuously. Build practical things. Share what you learn.
+
+⚡ What I Do
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+🏭 Industrial Automation
+
+Siemens PLC
+
+Servo & inverter integration
+
+Machine control
+
+Industrial communication
+
+Electrical / control system integration
+
+Troubleshooting & commissioning
+
+</td>
+<td width="33%" valign="top">
+
+📡 IIoT & IoT
+
+LoRaWAN
+
+MQTT
+
+RS485
+
+Modbus RTU/TCP
+
+IoT gateways
+
+Sensors & energy meters
+
+Remote monitoring
+
+Node-RED automation
+
+</td>
+<td width="33%" valign="top">
+
+👁️ Computer Vision & AI
+
+OpenCV
+
+Cognex
+
+Machine Vision
+
+Machine Learning
+
+Edge AI
+
+AI + IoT integration
+
+Intelligent inspection
+
+AI-assisted applications
+
+</td>
+</tr>
+</table>
+
+🧰 Core Skills
+
+💻 Programming & Software
 
 <p>
-<!--<img alt="C#" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>-->
-<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" height="25px">
-<img alt="Node-RED" src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white" height="25px"/>
-<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge" height="25px">
-<img alt="Siemens" src="https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white" height="25px"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
-<img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="25px"/>
-<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="25px"/>
-<img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge" height="25px">
-<img alt="Espressip" src="https://img.shields.io/badge/Espressif-E7352C?logo=espressif&logoColor=fff&style=for-the-badge" height="25px"/>
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" height="25px">
-<img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=fff&style=for-the-badge" height="25px">
-<img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge" height="25px">
-<img alt="ChatBot" src="https://img.shields.io/badge/ChatBot-06F?logo=chatbot&logoColor=fff&style=for-the-badge" height="25px">
-<img alt="Notion" src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge" height="25px">
- 
-## ❤️ Let's get connected:
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css,git,github,vscode" />
+</p>
 
-<a href="https://www.linkedin.com/in/calisji/">
- <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35px"/>
-</a>
-<a href="https://www.instagram.com/calis_20.03/">
- <img alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35px" /> 
-</a>
-<a href="https://www.facebook.com/calisthenics.street.7">
- <img alt="Facebook" src="https://img.shields.io/badge/facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" height="35px"/>
-</a>
+Python C# C++ JavaScript SQL REST API Backend Integration
 
+⚙️ Automation & Embedded
 
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
 
-<!--## 🤝 Support Me:-->
+Siemens PLC Mitsubishi Servo INVT Inverter ESP32 Arduino Raspberry Pi
+Industrial Control Machine Commissioning Electrical Integration
 
-## 📊 My GitHub Data:
+📡 IoT, Networking & Protocols
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mqtt,linux,docker" />
+</p>
+
+LoRaWAN MQTT Modbus RTU Modbus TCP RS485 HTTP REST API
+TCP/IP UDP BACnet DALI ChirpStack Node-RED Tailscale
+
+🗄️ Data, DevOps & Monitoring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,docker,linux,grafana,git,github" />
+</p>
+
+MySQL SQLite PostgreSQL Docker Docker Compose Linux Grafana
+GitHub Cloudflare Tunnel Reverse Proxy Caddy
+
+🤖 AI & Computer Vision
+
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch" />
+</p>
+
+OpenCV Machine Vision Machine Learning Edge AI Cognex Vision
+AI for IoT AI-assisted Automation
+
+🔧 Platforms & Devices I Work With
+
+LoRaWAN Gateways Industrial Sensors Energy Meters Smart Lighting Controllers
+RS485 Devices 4G Gateways Edge AI Boxes IP Cameras NVR
+Actility ThingPark Milesight Kerlink Abeeway Acrel ChirpStack
+
+🌱 Current Focus
+
+AI + IoT + Automation
+        ↓
+Smart connected systems
+        ↓
+Useful real-world applications
+
+🧠 AI-assisted automation workflows
+
+📡 Reliable IIoT architecture
+
+👁️ Computer Vision & Edge AI
+
+🐳 Containerized deployment with Docker
+
+☁️ Remote access, cloud connectivity, and production deployment
+
+🗣️ Orena — AI-powered language learning
+
+🧪 Featured Work
+
+🌐 Orena
+
+AI-powered language-learning platform
+
+Python PostgreSQL Docker AI Speech Writing Listening Speaking
+
+Building a complete language-learning experience that combines AI feedback, pronunciation, listening, speaking, writing, grammar, and adaptive learning.
+
+🏭 Industrial Automation & Machine Integration
+
+Integration of PLCs, servo systems, inverters, databases, industrial cameras, and communication protocols for production machines.
+
+📡 IIoT / LoRaWAN Solutions
+
+Deployment and troubleshooting of LoRaWAN gateways, sensors, meters, smart-lighting devices, Rule Engines, dashboards, and remote monitoring systems.
+
+👁️ Machine Vision
+
+Industrial inspection and automation solutions using Cognex, OpenCV, and AI-assisted vision pipelines.
+
+📊 GitHub Analytics
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=calisji&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=calisji&" alt="soumyajit" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CalisJI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalisJI&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=CalisJI&theme=tokyonight&hide_border=true" />
+
+</div>
+
+🧭 Engineering Mindset
+
+Understand the problem
+        ↓
+Measure the real system
+        ↓
+Connect devices & protocols
+        ↓
+Build reliable software
+        ↓
+Automate
+        ↓
+Monitor
+        ↓
+Improve
+
+<div align="center">
+
+🤝 Let's build something useful.
+
+Automation • IoT • AI • Computer Vision • Smart Systems
+
+⭐ From CalisJI
+
 </div>
