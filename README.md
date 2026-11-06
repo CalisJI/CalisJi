@@ -116,6 +116,11 @@ Python C# C++ JavaScript SQL REST API Backend Integration
   <img src="https://img.shields.io/badge/Mitsubishi-Servo-E60012?style=for-the-badge" />
   <img src="https://img.shields.io/badge/INVT-Inverter-005BAC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Modbus-RTU%20%2F%20TCP-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BACnet-BMS-2A9D8F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DALI-Lighting%20Control-DAA520?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LoRaWAN-IoT-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node--RED-Flow%20Automation-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 <p>
